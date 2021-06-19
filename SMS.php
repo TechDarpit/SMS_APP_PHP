@@ -26,7 +26,7 @@ if (isset($_POST["submit"])) {
       CURLOPT_CUSTOMREQUEST => "POST",
       CURLOPT_POSTFIELDS => json_encode($fields),
       CURLOPT_HTTPHEADER => array(
-        "authorization: API KEY",
+        "authorization: API KEY", //Add your fast2sms API Key
         "accept: */*",
         "cache-control: no-cache",
         "content-type: application/json"
