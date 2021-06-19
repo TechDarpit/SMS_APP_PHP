@@ -7,3 +7,4 @@ For the Fast2SMS API key, you have to sign in to https://www.fast2sms.com.
 
 Screenshots :
 
+![](SMS%20App.PNG)
