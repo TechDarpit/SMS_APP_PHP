@@ -1,7 +1,5 @@
 <?php
 
-// 3KOLXgqrd1xN02nDj8eVByPp6lht9vaEkST74zRUsAGmcQfWHMn8Neh7ZpuGYAbF6x9azgTE0jroDOP3
-
 if (isset($_POST["submit"])) {
     
     $mobNum = $_POST["mobNum"];
